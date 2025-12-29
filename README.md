@@ -17,9 +17,9 @@ Auto maintains x4 field boost by using One Loaded Dice, Field Dice, and Glitter.
    - Field Dice -> slot 7
 
 2. Configure field (edit line 1):
-```
+```lua
 _G.field = "Pepper Patch"
-```
+```lua
 
 3. Run script while on your field
 
@@ -30,9 +30,9 @@ Sunflower Field, Dandelion Field, Mushroom Field, Blue Flower Field, Clover Fiel
 ## Custom Slots
 
 Change line 2 if using different slots:
-```
+```lua
 _G.slots = {LoadedDice = 5, Glitter = 6, FieldDice = 7}
-```
+```lua
 
 ## How It Works
 
