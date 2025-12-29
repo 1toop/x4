@@ -1,8 +1,9 @@
 # x4 is a bss x4 maintainer you can use it with atlas (tested only with it) you can use it manually also if you need it for some reason
-
+```
 _G.field = "Pepper Patch" -- change to your field
 _G.slots = {LoadedDice = 5, Glitter = 6, FieldDice = 7} -- change if items in different slots
 loadstring(game:HttpGet("https://raw.githubusercontent.com/1toop/x4/refs/heads/main/x4.lua"))()
+```
 
 Auto maintains x4 field boost by using One Loaded Dice, Field Dice, and Glitter.
 
